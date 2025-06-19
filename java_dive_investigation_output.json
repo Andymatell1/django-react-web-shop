@@ -1,0 +1,51 @@
+{
+  "layer": [
+    {
+      "index": 0,
+      "id": "blobs",
+      "digestId": "sha256:0b031aac65698c8794dc6bc317a45589e07bc2db1421178f30a2c7f69a4a2cf5",
+      "sizeBytes": 2355307,
+      "command": "bazel build ..."
+    },
+    {
+      "index": 1,
+      "id": "blobs",
+      "digestId": "sha256:f89ce21aca6a781431e353b2ca78e692b6a81b7a6bafa616ebfb9f250bbfd61f",
+      "sizeBytes": 17896210,
+      "command": "bazel build ..."
+    },
+    {
+      "index": 2,
+      "id": "blobs",
+      "digestId": "sha256:e83d4114481dc897d49d5a9a8b68bf71c4f08f1a5c1adff44603c56b958fed53",
+      "sizeBytes": 2338082,
+      "command": "bazel build ..."
+    },
+    {
+      "index": 3,
+      "id": "blobs",
+      "digestId": "sha256:38d1c695c285f8573ee7ee688995ba5f24826b2338b0838ccad691d9ff01af3c",
+      "sizeBytes": 16704529,
+      "command": "bazel build ..."
+    },
+    {
+      "index": 4,
+      "id": "blobs",
+      "digestId": "sha256:6200215bd03b127cfa2067839fb303930a5bb87218bcb8ea3c1169aec6529a2a",
+      "sizeBytes": 170554438,
+      "command": "bazel build ..."
+    }
+  ],
+  "image": {
+    "sizeBytes": 209848566,
+    "inefficientBytes": 0,
+    "efficiencyScore": 1,
+    "fileReference": [
+      {
+        "count": 2,
+        "sizeBytes": 0,
+        "file": "/usr/bin"
+      }
+    ]
+  }
+}
